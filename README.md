@@ -13,7 +13,22 @@ Insights and recommendations are provided on the following key areas:
 * __Top Performers:__ An evaluation of sales representatives who had the largest impact on sales.
 * __Top Spenders & Loyal Customers:__ A segmentation of customer loyalty and retention.
 
-Targeted SQL queries regarding various business questions can be found [here].
+Targeted SQL queries regarding various business questions can be found [here](classicmodel_sales_project.sql).
+
+## Data Structure & Initial Checks
+Classic Model cars database structure as seen below consists of eight tables: customers, orders, orderdetails, products, productlines, payments, employees, and offices with a total row count of 3,864 records. A description of each table is as follows:
+* __Customers:__ Stores customer’s data.
+* __Orders:__ Stores sales orders placed by customers.
+* __Orderdetails:__ Stores sales order line items for each sales order.
+* __Products:__ Stores a list of scale model cars.
+* __Productlines:__ Stores a list of product line categories.
+* __Payments:__ Stores payments made by customers based on their accounts.
+* __Employees:__ Stores all employee information as well as the organization structure such as who reports to whom.
+* __Offices:__ Stores sales office data.
+  
+
+
+
 
 
 
