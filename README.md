@@ -25,6 +25,23 @@ Classic Model cars database structure as seen below consists of eight tables: cu
 * __Payments:__ Stores payments made by customers based on their accounts.
 * __Employees:__ Stores all employee information as well as the organization structure such as who reports to whom.
 * __Offices:__ Stores sales office data.
+![ERD](ERD.png)
+## Executive Summary
+## Overview of Findings
+The average number of orders placed by each customer is 2.67, indicating a moderate level of repeat purchases. Around 95.4% of orders were shipped on time, reflecting strong operational efficiency. In terms of profitability, the top-performing products include 1992 Ferrari 360 Spider Red, 1952 Alpine Renault 1300, and 2001 Ferrari Enzo, which generated the highest net profits. 
+
+When analyzing performance by country, the United States, France, and Germany recorded the highest average order amounts, highlighting them as key markets. 
+
+Furthermore, customer segmentation based on total purchase amount categorized clients into low, medium, and high-value segments. High-value customers—such as Australian Collectors Co., La Rochelle Gifts, and Euro+ Shopping Channel—contribute a significant portion of total revenue, while medium-value customers represent the largest group with strong potential for growth. 
+
+These insights emphasize the importance of maintaining relationships with high-value clients, nurturing medium-value customers for upselling opportunities, and re-engaging low-value customers to boost retention and overall profitability.
+
+## Insights Deep Dive
+* __Regional Sales Performance:__
+
+
+
+
   
 
 
