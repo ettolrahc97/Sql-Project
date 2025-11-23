@@ -28,7 +28,7 @@ Classic Model cars database structure as seen below consists of eight tables: cu
 ![ERD](ERD.png)
 ## Executive Summary
 ## Overview of Findings
-The average number of orders placed by each customer is 3.32, indicating a moderate level of repeat purchases. Around 95.4% of orders were shipped on time, reflecting strong operational efficiency. In terms of profitability, the top-performing products include 1992 Ferrari 360 Spider Red, 1952 Alpine Renault 1300, and 2001 Ferrari Enzo, which generated the highest net profits. 
+The average number of orders placed by each customer is 3.32, indicating a moderate level of repeat purchases. Around 95.4% of orders were shipped on time, reflecting strong operational efficiency. In terms of profitability, the top-performing products include 1992 Ferrari 360 Spider Red, 1952 Alpine Renault 130, and 2001 Ferrari Enzo, which generated the highest net profits. 
 
 When analyzing performance by country, the United States, France, and Germany recorded the highest average order amounts, highlighting them as key markets. 
 
@@ -40,8 +40,13 @@ Below is the overview page from the Tableau dashboard. The entire interactive da
 
 ![](https://github.com/ettolrahc97/Sql-Project/blob/699bb949e2e226f4b8eb430581d23f47fd4095e0/Overview%20Of%20Findings/Overview.png)
 
-## Insights Deep Dive
-* __Regional Sales Performance:__
+## Recommendations:
+Based on the insights and findings above, the management and sales strategy team should try to consider the following:
+* Countries such as __Switzerland, Denmark, and Austria__ show the highest average order values(AOV). Focus marketing campaigns, exclusive offers, and premium product launches in these high-value markets to further enhance revenue potential.
+* The __Classic Cars__ category generates the most sales and profit across all product lines. Continue investing in inventory, promotions, and visibility for this product line, while exploring opportunities to refresh slower-moving categories like Trains and Ships.
+* The __top 10 best-selling products__ are concentrated in the Classic Cars category. Use these popular models in cross-selling bundles or limited-edition collections to drive additional purchases.
+* The __on-time shipment rate of 95%__ indicates strong operational efficiency. Maintain current logistics practices and explore automation or tracking enhancements to further minimize delays and sustain customer satisfaction.
+* __Customer segmentation__ shows a small group of high spenders contributing a large share of revenue. Develop personalized loyalty programs and targeted retention strategies for top customers to encourage repeat purchases and long-term loyalty.
 
 
 
