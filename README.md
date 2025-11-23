@@ -36,8 +36,9 @@ Furthermore, customer segmentation based on total purchase amount categorized 
 
 These insights emphasize the importance of maintaining relationships with high-value clients, nurturing medium-value customers for upselling opportunities, and re-engaging low-value customers to boost retention and overall profitability.
 
-Below is the overview page from the Tableau dashboard and more examples are included throughout the report.The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/ClassicCarModelSalesProject/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Below is the overview page from the Tableau dashboard. The entire interactive dashboard can be downloaded [here](https://public.tableau.com/views/ClassicCarModelSalesProject/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![](https://github.com/ettolrahc97/Sql-Project/blob/699bb949e2e226f4b8eb430581d23f47fd4095e0/Overview%20Of%20Findings/Overview.png)
 
 ## Insights Deep Dive
 * __Regional Sales Performance:__
